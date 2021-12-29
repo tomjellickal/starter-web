@@ -5,7 +5,9 @@ This is example to show different parts of the Git repository and various comman
 
 
 ## Purpose
+The main purpose is to 
+show different parts of Git Repo and various commands using a web project
 
 ## Deployment
-
+This change is amde in the local repo.
 ## How to contribute
