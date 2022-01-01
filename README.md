@@ -10,4 +10,6 @@ show different parts of Git Repo and various commands using a web project
 
 ## Deployment
 This change is amde in the local repo.
+
 ## How to contribute
+Please fork this repo and then issue a Pull Request for review.
