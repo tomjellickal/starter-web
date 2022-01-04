@@ -2,7 +2,7 @@
 This is a simple website project for showing hw to use Git and Github
 ## Introduction
 This is example to show different parts of the Git repository and various commands using a web project.
-
+Adding a line for rebasing
 
 ## Purpose
 The main purpose is to 
