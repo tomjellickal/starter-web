@@ -1,3 +1,4 @@
 test.txt.bak
 *.log
 simple.html.bak
+*.orig
